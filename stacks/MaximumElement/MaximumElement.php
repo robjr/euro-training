@@ -4,7 +4,7 @@
  *
  * PHP version 5
  *
- * @package strings
+ * @package stacks
  * @see making-anagrams-problem.pdf
  * @see https://www.hackerrank.com/challenges/maximum-element Maximum Element Problem
  */
